@@ -1,24 +1,5 @@
-# t
+# Initial test of V-network-graph
+https://github.com/dash14/v-network-graph
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demo:
+https://codesandbox.io/s/github/chervontsev/vue-network-graph-test-v1/tree/main/
